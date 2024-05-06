@@ -1,12 +1,13 @@
 # Optimising-Staff-Levels-and-Capacity-in-the-NHS-Networks
 
-Optimising Staff Levels and Capacity in the NHS Networks & Identifying trends in the utilisation of resources over time
-
 Diagnostic Analysis using Python
 
 SCENARIO 
 
-The NHS incurs in significant, potentially avoidable, costs when patients miss general practitioner (GP) appointments.
+The NHS incurs in significant, potentially avoidable, costs when patients miss general practitioner (GP) appointments and they want to:
+
+A. Optimise Staff Levels and Capacity in the NHS Networks
+B. Identify trends in the utilisation of resources over time
 
 Why should the NHS try and solve this problem?
 
